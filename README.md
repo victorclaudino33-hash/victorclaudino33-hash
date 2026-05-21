@@ -18,7 +18,6 @@ Estou no início da minha jornada na Engenharia de Software, apaixonado por desc
   <!-- Back-end Core -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
 
   <!-- Front-end Explorando -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
@@ -40,12 +39,6 @@ Estou no início da minha jornada na Engenharia de Software, apaixonado por desc
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorclaudino33-hash&layout=compact&theme=nord" alt="Linguagens mais usadas por Victor" />
 </p>
 
-<p align="center">
-  <!-- Opcional: Jogo da Cobra nas contribuições -->
-  <img src="https://github-readme-snake.herokuapp.com/github-user-contributions-snake.svg?username=victorclaudino33-hash" alt="Jogo da Cobra das Contribuições" />
-</p>
-
----
 
 ### 🤝 Vamos aprender e construir juntos?
 
