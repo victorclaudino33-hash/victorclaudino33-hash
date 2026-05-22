@@ -1,86 +1,52 @@
-<div align="center">
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Victor%20Claudino&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Engenharia%20de%20Software%20%7C%20Java%20Back-end%20in%20Progress&descSize=16&descAlignY=60&descColor=a78bfa)
 
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Victor%20Claudino&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineering%20Student%20%7C%20Java%20Back-end%20in%20Progress&descSize=17&descAlignY=60&descColor=a78bfa)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Construindo+uma+base+s%C3%B3lida+em+Java+%E2%98%95;Back-end+%C3%A9+onde+a+m%C3%A1gica+acontece+%F0%9F%8C%90;2%C2%BA+semestre+de+8+%E2%80%94+a+jornada+come%C3%A7ou!+%F0%9F%9A%80;Cada+linha+de+c%C3%B3digo+%C3%A9+um+passo+%F0%9F%91%A3;Aprendendo+todos+os+dias+%F0%9F%93%9A)](https://git.io/typing-svg)
-
-![Status](https://img.shields.io/badge/Status-Estudando%20Ativamente-brightgreen?style=flat-square&logo=bookstack&logoColor=white)
-![Foco](https://img.shields.io/badge/Foco-Java%20Back--end-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Semestre](https://img.shields.io/badge/Semestre-2%20de%208-a78bfa?style=flat-square)
-![Brasil](https://img.shields.io/badge/Brasil-🇧🇷-009c3b?style=flat-square)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Ol%C3%A1!+Eu+sou+o+Victor+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Apaixonado+por+Java+e+Back-end+%E2%98%95;2%C2%BA+semestre+de+8+%E2%80%94+s%C3%B3+estou+come%C3%A7ando!+%F0%9F%9A%80;Aprendendo+todos+os+dias+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 ---
 
-## 👾 Sobre mim
+## 👾 Quem sou eu?
 
-```java
-public class Victor extends Dev {
+Oi! Sou o **Victor**, estudante de **Engenharia de Software** no 2º semestre de 8.
+Estou construindo minha base no **Java Back-end** — com muita curiosidade, café ☕ e vontade de evoluir todo dia.
 
-    private final String nome     = "Victor Claudino";
-    private final String curso    = "Engenharia de Software";
-    private final String semestre = "2/8 — só estou começando 🚀";
-    private final String foco     = "Java Back-end";
-    private final String pais     = "Brasil 🇧🇷";
+Ainda sou iniciante, mas acredito que consistência bate talento quando o talento não treina.
 
-    private final String[] aprendendo = {
-        "Java", "Spring Boot", "MySQL",
-        "HTML/CSS", "JavaScript", "Git"
-    };
+---
 
-    private final String[] sonhando = {
-        "Microsserviços", "Docker", "Cloud AWS",
-        "Machine Learning", "Open Source"
-    };
+## 🗺️ Minha jornada — semestre a semestre
 
-    public String getMotivacao() {
-        return "Todo especialista já foi um iniciante. O segredo é não parar.";
-    }
-}
+```
+[✅] Sem 1–2  · Fundamentos
+              Git • Lógica • HTML/CSS • Algoritmos
+
+[🔥] Sem 2–3  · Java Core & Spring        ← aqui agora
+              POO • Spring Boot • APIs REST • MySQL • JPA
+
+[⏳] Sem 3–4  · Arquitetura
+              Microsserviços • Docker • Testes • Clean Code
+
+[⏳] Sem 4–6  · Cloud & DevOps
+              AWS • CI/CD • Kubernetes • Observabilidade
+
+[⏳] Sem 6–8  · Especialização
+              IA/ML • Sistemas Distribuídos • Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Progresso: [████░░░░░░░░░░░░] 25% — 2 de 8 semestres
 ```
 
 ---
 
-## 🗺️ Roadmap de Aprendizado
+## 🛠️ Tecnologias
 
-```
-Engenharia de Software — 8 semestres
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[✅] Sem 1–2 · Fundamentos
-         Git • Lógica • HTML/CSS • Algoritmos
-
-[🔥] Sem 2–3 · Java Core & Spring
-         POO • Spring Boot • APIs REST • MySQL • JPA
-
-[⏳] Sem 3–4 · Arquitetura
-         Microsserviços • Docker • Testes • Clean Code
-
-[⏳] Sem 4–6 · Cloud & DevOps
-         AWS • CI/CD • Kubernetes • Observabilidade
-
-[⏳] Sem 6–8 · Especialização
-         IA/ML • Sistemas Distribuídos • Open Source
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Progress: [████░░░░░░░░░░░░] 25% — 2/8 semestres
-```
-
----
-
-## 🛠️ Arsenal Tecnológico
-
-**🔥 Foco Principal — Java Ecosystem**
+**🔥 Foco principal**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-**⚙️ Ferramentas do Dia a Dia**
+**⚙️ Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -88,14 +54,14 @@ Progress: [████░░░░░░░░░░░░] 25% — 2/8 semestr
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**🌐 Explorando Front-end**
+**🌐 Explorando front-end**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**🔭 No Radar — Próximos Passos**
+**🔭 No radar**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -104,99 +70,52 @@ Progress: [████░░░░░░░░░░░░] 25% — 2/8 semestr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=victorclaudino33-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&ring_color=A78BFA)
+![Stats](https://github-readme-stats.vercel.app/api?username=victorclaudino33-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorclaudino33-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorclaudino33-hash&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=CDD6F4&dates=8B949E)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=victorclaudino33-hash&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true&area_color=1e1b4b)
-
-</div>
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=victorclaudino33-hash&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true)
 
 ---
 
 ## 🎯 Metas 2026
 
-| # | Meta | Status |
-|---|------|--------|
-| 1 | 🔨 Primeiro CRUD completo em Java + Spring Boot | 🔥 Em progresso |
-| 2 | 🗄️ Dominar SQL e modelagem de BD relacional | ⏳ Estudando |
-| 3 | 🌐 Criar e publicar minha primeira API REST | ⏳ Em breve |
-| 4 | 📦 3 projetos no GitHub com README completo | ⏳ Em breve |
-| 5 | 📚 Completar 1 curso completo de Java/Spring | ⏳ Em progresso |
-| 6 | 🤝 Primeira contribuição open-source | ⭐ Sonho grande |
+| Meta | Status |
+|------|--------|
+| 🔨 Primeiro CRUD completo em Java + Spring Boot | 🔥 Em progresso |
+| 🗄️ Dominar SQL e modelagem relacional | ⏳ Estudando |
+| 🌐 Publicar minha primeira API REST | ⏳ Em breve |
+| 📦 3 projetos no GitHub com README bem feito | ⏳ Em breve |
+| 📚 Completar 1 curso completo de Java/Spring | ⏳ Em progresso |
+| 🤝 Primeira contribuição open-source | ⭐ Sonho grande |
 
 ---
 
-## 💡 O Que Estou Estudando Esta Semana
+## 📚 Recursos que recomendo
 
-```
-📖 Programação Orientada a Objetos em Java
-   ├── Herança e Polimorfismo
-   ├── Interfaces e Classes Abstratas
-   └── Encapsulamento e boas práticas
-
-🌱 Introdução ao Spring Boot
-   ├── Estrutura de um projeto Maven
-   ├── Camadas: Controller, Service, Repository
-   └── Primeiros endpoints REST
-
-🗄️ MySQL & Modelagem de Dados
-   ├── Tipos de relacionamentos (1:1, 1:N, N:M)
-   ├── JOINs e subconsultas
-   └── Normalização de tabelas
-```
-
----
-
-## 📚 Recursos que Recomendo
-
-> Seleção do que uso pra aprender — gratuitos e em português sempre que possível!
-
-- 🎓 **[Loiane Groner](https://loiane.training/)** — Cursos de Java gratuitos e incríveis
-- 🎓 **[Fernanda Kipper](https://www.youtube.com/@kipperdev)** — Java e Spring do zero no YouTube
-- 📘 **Effective Java** — Joshua Bloch (leitura futura obrigatória)
+- 🎓 **[Loiane Groner](https://loiane.training/)** — Cursos de Java gratuitos e em português
+- 🎓 **[Fernanda Kipper](https://www.youtube.com/@kipperdev)** — Java e Spring Boot no YouTube
 - 🛠️ **[roadmap.sh/java](https://roadmap.sh/java)** — Mapa visual do que aprender
-- 🛠️ **[Spring Initializr](https://start.spring.io/)** — Pra criar projetos Spring Boot rapidinho
+- 🛠️ **[Spring Initializr](https://start.spring.io/)** — Criar projetos Spring Boot na hora
 
 ---
 
-## 🐍 Contribuições
+## 💬 Uma frase que carrego
 
-<div align="center">
-
-![Snake dark](https://raw.githubusercontent.com/victorclaudino33-hash/victorclaudino33-hash/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake light](https://raw.githubusercontent.com/victorclaudino33-hash/victorclaudino33-hash/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
+> *"Todo especialista já foi um iniciante. O segredo é não parar."*
 
 ---
 
-## 💬 Filosofia
+## 🤝 Vamos conversar?
 
-> *"Um sistema complexo que funciona sempre evoluiu de um sistema simples que funcionava. Um sistema complexo construído do zero raramente funciona."*
->
-> — **John Gall**
-
----
-
-## 🤝 Vamos Conversar?
-
-Sou iniciante e adoro trocar ideia com outros devs — seja você estudante no primeiro dia ou sênior com 10 anos de carreira. Todo aprendizado é bem-vindo!
+Sou iniciante e sempre aberto a aprender com qualquer dev — do primeiro dia ao décimo ano de carreira!
 
 [![Gmail](https://img.shields.io/badge/Gmail-victorclaudino33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorclaudino33@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victorclaudinosilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorclaudinosilva)
 
----
-
-<div align="center">
-
 ![Visitas](https://komarev.com/ghpvc/?username=victorclaudino33-hash&color=a78bfa&style=flat-square&label=Visitas+ao+perfil)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
-
-</div>
