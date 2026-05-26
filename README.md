@@ -42,9 +42,6 @@ Progresso: [████░░░░░░░░░░░░] 25% — 2 de 8 sem
 **🔥 Foco principal**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 **⚙️ Ferramentas**
 
@@ -69,18 +66,6 @@ Progresso: [████░░░░░░░░░░░░] 25% — 2 de 8 sem
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
-
-## 📊 Estatísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=victorclaudino33-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorclaudino33-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorclaudino33-hash&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=CDD6F4&dates=8B949E)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=victorclaudino33-hash&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true)
-
----
-
 ## 🎯 Metas 2026
 
 | Meta | Status |
